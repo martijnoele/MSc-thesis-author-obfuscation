@@ -5,7 +5,7 @@
 
 ## How to use
 **Train and apply classifier** <br />
-Use main_classifier.py with '__TRAIN = False' or '__TRAIN = True'
+Use main_classifier.py with `__TRAIN = False` or `__TRAIN = True`
 
 **Plot visuals** <br />
 Use main_analysis.py
